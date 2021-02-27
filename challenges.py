@@ -1,3 +1,5 @@
+# Failed attempt at numIslands
+
 def numIslands(grid):
     """Take in a grid of 1s (land) and 0s (water) and return the number of islands."""
     # count to store each new island found
